@@ -3,6 +3,10 @@
 This Assignment materials contains, historical data of Stock values of Microsoft Coperation. You have to use the ```1.0 LSTM for Stock Market Value Prediction .ipynb```
 and ```1.1 LSTM for Stock Market Value Prediction .ipynb with necessary modification``` to apply the 1D Convolutional Network provided below for the dataset.
 
+## Dataset
+
+[Download from www.nasdaq.com](https://www.nasdaq.com/market-activity/stocks/msft/historical)
+
 ## Instructions
 
 1. Modify the ```1.0 LSTM for Stock Market Value Prediction .ipynb``` read the ```MSFT_data.csv```
